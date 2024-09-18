@@ -1,0 +1,10 @@
+{
+	"id": "markline",
+	"name": "Markline",
+	"version": "1.2.2",
+	"minAppVersion": "0.15.0",
+	"description": "Timeline view from markdown.",
+	"author": "闲耘",
+	"authorUrl": "https://hotoo.github.io/",
+	"isDesktopOnly": false
+}
